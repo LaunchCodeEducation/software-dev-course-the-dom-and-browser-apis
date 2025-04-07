@@ -21,7 +21,7 @@ Create a basic HTML structure that includes:
 
 - An **input field** for entering new items  
 - A **button** to add items to the list  
-- An **unordered list** (`<ul>`) to display the shopping list items  
+- An **unordered list** to display the shopping list items  
 
 ---
 
@@ -31,7 +31,7 @@ Create a basic HTML structure that includes:
 
 When the user enters text in the input field and clicks the **"Add"** button:
 
-- A new list item should be added to the `<ul>`
+- A new list item should be added to the 
 - Each list item should include:
   - The item text
   - A **"Remove"** button to delete the item
