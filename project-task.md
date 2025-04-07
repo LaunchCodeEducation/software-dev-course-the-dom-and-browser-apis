@@ -31,7 +31,7 @@ Create a basic HTML structure that includes:
 
 When the user enters text in the input field and clicks the **"Add"** button:
 
-- A new list item should be added to the 
+- A new list item should be added 
 - Each list item should include:
   - The item text
   - A **"Remove"** button to delete the item
